@@ -1,4 +1,4 @@
-# Trabajo-final-Jose-y-Manuela
+# Descripción trabajo final Jose y Manuela
 Este conjunto de datos permitirá realizar análisis detallados de salarios y dinámicas de empleo para científicos de datos.
 Profundiza en las tendencias del mercado laboral en 2024. La base de datos cuenta con las siguientes variables: 
 
@@ -31,3 +31,5 @@ remote_ratio: La proporción que indica el grado de trabajo remoto permitido en 
 company_location: La ubicación de la empresa donde trabaja el empleado.
 
 company_size: El tamaño de la empresa, a menudo categorizado por el número de empleados (S para pequeña, M para mediana, L para grande).
+
+Para efectos del trabajo final esta base de datos será utilizada con los modelos KNN como modelos de clasificación y agrupamiento y con Madaline para encontrar la probabilidad
